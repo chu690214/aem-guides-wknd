@@ -1,4 +1,8 @@
-# WKND Sites Project
+# Legacy Lazybones WKND Project
+
+An older version of the tutorial created using the Lazybones template. The latest version of the tutorial uses the AEM project archetype 13.
+
+## WKND Sites Project
 
 This is the code companion to a multi-part series on HelpX:
 
